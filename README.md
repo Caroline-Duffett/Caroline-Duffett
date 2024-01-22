@@ -3,8 +3,7 @@
 ### About Me
 I'm a software engineer with a background in biology. I have strong communication skills and can adapt to any team environment. I love to solve problems and make valuable products. With technology constantly evolving, I am always learning and applying those new skills in my work. The future possibilities excite me.
 
-Checkout my portfolio! 
-https://carolineduffett.netlify.app/
+
 
 ### What I am up to
 Currently I am trying to teach myself Angular 14. 
